@@ -1,0 +1,19 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+.env.local
+
+# Temporary files and build artifacts
+temp_*.mp3
+temp_*.mp4
+*.mp3
+*.mp4
+*.png
+GLITCH_*.mp4
+VISUAL_*.png
+VEO_*.mp4
+STOCK_*.mp4
+FINAL_*.mp4
+PROOF_*.mp4
+script_*.txt
